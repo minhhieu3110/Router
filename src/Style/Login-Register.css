@@ -1,0 +1,11 @@
+.loginForm, .registerForm{
+    border: 1px solid black;
+    width: 25%;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%,-30%);
+}
+button{
+    margin: 20px;
+}
