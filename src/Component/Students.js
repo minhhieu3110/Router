@@ -1,5 +1,5 @@
 import '../Style/Students.css'
-import {Outlet, useLocation, useNavigate, useNavigation} from "react-router";
+import {Outlet, useLocation, useNavigate} from "react-router";
 
 export default function Students() {
     const navigate = useNavigate();
